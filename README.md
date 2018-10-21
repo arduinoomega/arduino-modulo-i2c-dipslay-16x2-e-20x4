@@ -8,6 +8,6 @@ entre o <a href="https://www.arduinomega.com.br/modulo-serial-i2c-para-display-l
 <a href="https://www.arduinomega.com.br/display-lcd-162-backlight-azul">display 16x2</a>
 <img class="size-full wp-image-425 aligncenter" src="http://portaldoarduino.com.br/wp-content/uploads/2018/10/d0468c765c.jpg" alt="" width="300" height="300" />
 
-Veja o tutorial completo em <a href="http://portaldoarduino.com.br/como-utilizar-o-modulo-i2c-com-displays-16x2-e-20x4/" target="_blank">Portal do Arduino - Como utilizar o módulo I2C com displays 16x2 e 20x4</a>
+## Veja o tutorial completo em <a href="http://portaldoarduino.com.br/como-utilizar-o-modulo-i2c-com-displays-16x2-e-20x4/" target="_blank">Portal do Arduino - Como utilizar o módulo I2C com displays 16x2 e 20x4</a>
 
 Tutorial por Lucas Gomes do canal <a href="https://www.youtube.com/channel/UCpzWDkPHItOZmSwY7B4Gv0g">Lucas Tuto</a>
