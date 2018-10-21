@@ -10,4 +10,4 @@ entre o <a href="https://www.arduinomega.com.br/modulo-serial-i2c-para-display-l
 
 ## Veja o tutorial completo em <a href="http://portaldoarduino.com.br/como-utilizar-o-modulo-i2c-com-displays-16x2-e-20x4/" target="_blank">Portal do Arduino - Como utilizar o módulo I2C com displays 16x2 e 20x4</a>
 
-Tutorial por Lucas Gomes do canal <a href="https://www.youtube.com/channel/UCpzWDkPHItOZmSwY7B4Gv0g">Lucas Tuto</a>
+### Tutorial por Lucas Gomes do canal <a href="https://www.youtube.com/channel/UCpzWDkPHItOZmSwY7B4Gv0g">Lucas Tuto</a>
